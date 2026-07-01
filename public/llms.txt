@@ -1,0 +1,110 @@
+# Four seasons men — Generative Engine Optimization Map
+
+> A men's clothing brand offering a full year-round wardrobe for men. The business covers all seasons and occasions, positioning itself as a comprehensive fashion destination for the modern man.
+
+---
+
+## Pages
+
+### בית
+https://four-seasons-men-2acd003d.zappy5.app
+מותג אופנת גברים המציע מלתחה מלאה לכל עונות השנה. מלוקים יומיומיים ועד לאירועים מיוחדים, אנחנו היעד המושלם לגבר המודרני. היכנסו עכשיו והתחילו להתלבש בהשראה.
+
+### פילוסופיית סטייל
+https://four-seasons-men-2acd003d.zappy5.app/style-philosophy
+הכירו את פילוסופיית הסטייל שמאחורי כל פריט. איך משלבים איכות, עונתיות ואישיות לכדי מראה גברי מושלם. כנסו להבין מה הופך בגד להצהרה אופנתית.
+
+### לוקבוק
+https://four-seasons-men-2acd003d.zappy5.app/lookbook
+דפדפו בלוקבוק המעודכן שלנו וקבלו השראה למראות גברים שיקלעו לכל מטרה. משרד, בילוי או סוף שבוע – כאן תמצאו את הלוק הבא שלכם. הציצו עכשיו וגלו את העונה.
+
+### אודות
+https://four-seasons-men-2acd003d.zappy5.app/about
+מסע המותג שנולד כדי להלביש את הגבר הישראלי בכל רגע בחייו. למה אנחנו מאמינים שארון בגדים אחד יכול לעשות הבדל עצום. היכנסו להכיר אותנו מקרוב.
+
+### צור קשר
+https://four-seasons-men-2acd003d.zappy5.app/contact
+יש שאלה על מידות, סטיילינג או הזמנה? צוות המומחים שלנו כאן כדי לעזור לך לבנות מלתחה מנצחת. מלאו פרטים עכשיו ונתחיל לשוחח על הסגנון שלכם.
+
+### Products
+https://four-seasons-men-2acd003d.zappy5.app/products
+המוצרים שלנו - Four seasons men
+
+### Cart
+https://four-seasons-men-2acd003d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://four-seasons-men-2acd003d.zappy5.app/checkout
+תשלום
+
+### Login
+https://four-seasons-men-2acd003d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://four-seasons-men-2acd003d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://four-seasons-men-2acd003d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://four-seasons-men-2acd003d.zappy5.app/product/:slug
+פרטי המוצר - Four seasons men
+
+### Category
+https://four-seasons-men-2acd003d.zappy5.app/category/:slug
+מוצרים - Four seasons men
+
+### תודה - Four seasons men
+https://four-seasons-men-2acd003d.zappy5.app/thank-you
+Four seasons men - תודה - Four seasons men
+
+## Legal & Policy
+
+### Privacy Policy
+https://four-seasons-men-2acd003d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://four-seasons-men-2acd003d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://four-seasons-men-2acd003d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Four seasons men
+A men's clothing brand offering a full year-round wardrobe for men. The business covers all seasons and occasions, positioning itself as a comprehensive fashion destination for the modern man.
+
+## Target Audience
+- גברים
+- מקצוענים עירוניים
+- מטיילים עונתיים
+- נוער חובב אופנה
+- גברים באורח חיים פעיל
+
+## Industry
+Men's Fashion
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://four-seasons-men-2acd003d.zappy5.app/sitemap.xml
+- Robots: https://four-seasons-men-2acd003d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://four-seasons-men-2acd003d.zappy5.app/llms-full.txt
+- Products (JSON): https://four-seasons-men-2acd003d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://four-seasons-men-2acd003d.zappy5.app/product-feed.xml
