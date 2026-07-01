@@ -2,13 +2,13 @@
 
 A men's clothing brand offering a full year-round wardrobe for men. The business covers all seasons and occasions, positioning itself as a comprehensive fashion destination for the modern man.
 
-Source: https://four-seasons-men-2acd003d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את סגנון הגבר העכשווי — Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app
+URL: https://example.com
 Description: מותג אופנת גברים המציע מלתחה מלאה לכל עונות השנה. מלוקים יומיומיים ועד לאירועים מיוחדים, אנחנו היעד המושלם לגבר המודרני. היכנסו עכשיו והתחילו להתלבש בהשראה.
 
 גלה את סגנון הגבר העכשווי — Four seasons men
@@ -493,7 +493,7 @@ Four Seasons Men הוא הרבה יותר מחנות בגדים. אנחנו יע
 
 ## עקרונות הלבוש שמשנים כל הופעה — Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/style-philosophy
+URL: https://example.com/style-philosophy
 Description: הכירו את פילוסופיית הסטייל שמאחורי כל פריט. איך משלבים איכות, עונתיות ואישיות לכדי מראה גברי מושלם. כנסו להבין מה הופך בגד להצהרה אופנתית.
 
 עקרונות הלבוש שמשנים כל הופעה — Four seasons men
@@ -874,7 +874,7 @@ Description: הכירו את פילוסופיית הסטייל שמאחורי כ
 
 ## הלוקים שיהפכו אותך לאייקון סטייל — Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/lookbook
+URL: https://example.com/lookbook
 Description: דפדפו בלוקבוק המעודכן שלנו וקבלו השראה למראות גברים שיקלעו לכל מטרה. משרד, בילוי או סוף שבוע – כאן תמצאו את הלוק הבא שלכם. הציצו עכשיו וגלו את העונה.
 
 הלוקים שיהפכו אותך לאייקון סטייל — Four seasons men
@@ -1303,7 +1303,7 @@ Description: דפדפו בלוקבוק המעודכן שלנו וקבלו השר
 
 ## הסיפור מאחורי המותג שמוביל אופנה — Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/about
+URL: https://example.com/about
 Description: מסע המותג שנולד כדי להלביש את הגבר הישראלי בכל רגע בחייו. למה אנחנו מאמינים שארון בגדים אחד יכול לעשות הבדל עצום. היכנסו להכיר אותנו מקרוב.
 
 הסיפור מאחורי המותג שמוביל אופנה — Four seasons men
@@ -1691,7 +1691,7 @@ Four seasons men נולד מתוך ההבנה שגברים מודרניים זק
 
 ## בוא נתאים לך את הלוק המושלם — Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על מידות, סטיילינג או הזמנה? צוות המומחים שלנו כאן כדי לעזור לך לבנות מלתחה מנצחת. מלאו פרטים עכשיו ונתחיל לשוחח על הסגנון שלכם.
 
 בוא נתאים לך את הלוק המושלם — Four seasons men
@@ -2061,7 +2061,7 @@ Description: יש שאלה על מידות, סטיילינג או הזמנה? צ
 
 ## מוצרים
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Four seasons men
 
 מוצרים - Four seasons men
@@ -2321,7 +2321,7 @@ Description: המוצרים שלנו - Four seasons men
 
 ## עגלת קניות
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Four seasons men
@@ -2557,7 +2557,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Four seasons men
@@ -2979,7 +2979,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Four seasons men
@@ -3222,7 +3222,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Four seasons men
@@ -3620,7 +3620,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Four seasons men
@@ -3880,7 +3880,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Four seasons men
@@ -4169,7 +4169,7 @@ Four seasons men מחויבת לשביעות רצון לקוחותיה. מדינ
 
 ## פרטי המוצר
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Four seasons men
 
 פרטי המוצר - Four seasons men
@@ -4407,7 +4407,7 @@ Description: פרטי המוצר - Four seasons men
 
 ## מוצרים
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Four seasons men
 
 מוצרים - Four seasons men
@@ -4669,7 +4669,7 @@ Description: מוצרים - Four seasons men
 
 ## מדיניות פרטיות
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4950,7 +4950,7 @@ Four seasons men ("החברה", "אנו", "שלנו") מחויבת להגן על
 
 ## הצהרת נגישות
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5240,7 +5240,7 @@ Four seasons men מחויבת להנגיש את השירותים לכלל הצי
 
 ## תנאי שימוש
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5549,7 +5549,7 @@ Four seasons men מספקת Men's Fashion דרך האתר. השירותים כפ
 
 ## תודה - Four seasons men
 
-URL: https://four-seasons-men-2acd003d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Four seasons men - תודה - Four seasons men
 
 תודה - Four seasons men

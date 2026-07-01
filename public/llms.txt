@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://four-seasons-men-2acd003d.zappy5.app
+https://example.com
 מותג אופנת גברים המציע מלתחה מלאה לכל עונות השנה. מלוקים יומיומיים ועד לאירועים מיוחדים, אנחנו היעד המושלם לגבר המודרני. היכנסו עכשיו והתחילו להתלבש בהשראה.
 
 ### פילוסופיית סטייל
-https://four-seasons-men-2acd003d.zappy5.app/style-philosophy
+https://example.com/style-philosophy
 הכירו את פילוסופיית הסטייל שמאחורי כל פריט. איך משלבים איכות, עונתיות ואישיות לכדי מראה גברי מושלם. כנסו להבין מה הופך בגד להצהרה אופנתית.
 
 ### לוקבוק
-https://four-seasons-men-2acd003d.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפו בלוקבוק המעודכן שלנו וקבלו השראה למראות גברים שיקלעו לכל מטרה. משרד, בילוי או סוף שבוע – כאן תמצאו את הלוק הבא שלכם. הציצו עכשיו וגלו את העונה.
 
 ### אודות
-https://four-seasons-men-2acd003d.zappy5.app/about
+https://example.com/about
 מסע המותג שנולד כדי להלביש את הגבר הישראלי בכל רגע בחייו. למה אנחנו מאמינים שארון בגדים אחד יכול לעשות הבדל עצום. היכנסו להכיר אותנו מקרוב.
 
 ### צור קשר
-https://four-seasons-men-2acd003d.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידות, סטיילינג או הזמנה? צוות המומחים שלנו כאן כדי לעזור לך לבנות מלתחה מנצחת. מלאו פרטים עכשיו ונתחיל לשוחח על הסגנון שלכם.
 
 ### Products
-https://four-seasons-men-2acd003d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Four seasons men
 
 ### Cart
-https://four-seasons-men-2acd003d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://four-seasons-men-2acd003d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://four-seasons-men-2acd003d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://four-seasons-men-2acd003d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://four-seasons-men-2acd003d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://four-seasons-men-2acd003d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Four seasons men
 
 ### Category
-https://four-seasons-men-2acd003d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Four seasons men
 
 ### תודה - Four seasons men
-https://four-seasons-men-2acd003d.zappy5.app/thank-you
+https://example.com/thank-you
 Four seasons men - תודה - Four seasons men
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://four-seasons-men-2acd003d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://four-seasons-men-2acd003d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://four-seasons-men-2acd003d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -103,8 +103,8 @@ Men's Fashion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://four-seasons-men-2acd003d.zappy5.app/sitemap.xml
-- Robots: https://four-seasons-men-2acd003d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://four-seasons-men-2acd003d.zappy5.app/llms-full.txt
-- Products (JSON): https://four-seasons-men-2acd003d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://four-seasons-men-2acd003d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
