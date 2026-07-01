@@ -11553,6 +11553,184 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+/* AI-generated section */
+/* ==============================================
+   Everyday Style Hero Showcase Section
+   Full-width editorial image with dark backdrop
+   ============================================== */
+
+.eds-hero-showcase {
+  background-color: #1a1a1a;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.eds-hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* --- Text Block --- */
+.eds-hero-text {
+  text-align: center;
+  padding: 60px 24px 40px;
+  z-index: 2;
+  position: relative;
+}
+
+.eds-hero-heading {
+  font-family: system-ui, sans-serif;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 16px 0;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+.eds-hero-subtitle {
+  font-family: system-ui, sans-serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0 auto;
+  max-width: 560px;
+  line-height: 1.65;
+}
+
+/* --- Image Wrapper --- */
+.eds-hero-image-wrapper {
+  width: 100%;
+  position: relative;
+  background-color: #111111;
+}
+
+.eds-hero-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 85vh;
+  object-fit: cover;
+  object-position: center 25%;
+  transition: opacity 0.4s ease;
+}
+
+/* Subtle overlay gradient at the top to blend with the dark background */
+.eds-hero-image-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: linear-gradient(to bottom, #1a1a1a 0%, rgba(26, 26, 26, 0.7) 40%, transparent 100%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Subtle shadow at the bottom */
+.eds-hero-image-wrapper::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(to top, #1a1a1a 0%, rgba(26, 26, 26, 0.5) 40%, transparent 100%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 1024px) {
+  .eds-hero-heading {
+    font-size: 2.3rem;
+  }
+  
+  .eds-hero-subtitle {
+    font-size: 1.05rem;
+    max-width: 480px;
+  }
+  
+  .eds-hero-text {
+    padding: 50px 20px 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .eds-hero-heading {
+    font-size: 1.9rem;
+  }
+  
+  .eds-hero-subtitle {
+    font-size: 0.95rem;
+    max-width: 400px;
+  }
+  
+  .eds-hero-text {
+    padding: 40px 16px 24px;
+  }
+  
+  .eds-hero-image {
+    max-height: 60vh;
+  }
+  
+  .eds-hero-image-wrapper::before {
+    height: 80px;
+  }
+  
+  .eds-hero-image-wrapper::after {
+    height: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .eds-hero-heading {
+    font-size: 1.6rem;
+  }
+  
+  .eds-hero-subtitle {
+    font-size: 0.875rem;
+    max-width: 320px;
+  }
+  
+  .eds-hero-text {
+    padding: 32px 12px 20px;
+  }
+  
+  .eds-hero-image {
+    max-height: 50vh;
+  }
+  
+  .eds-hero-image-wrapper::before {
+    height: 60px;
+  }
+  
+  .eds-hero-image-wrapper::after {
+    height: 40px;
+  }
+}
+
+/* High-DPI screens – ensure crisp rendering */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .eds-hero-image {
+    image-rendering: auto;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .eds-hero-image {
+    transition: none;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
